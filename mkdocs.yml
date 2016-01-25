@@ -1,0 +1,5 @@
+site_name: My Docs Test
+pages:
+- Home: index.md
+- About: about.md
+
