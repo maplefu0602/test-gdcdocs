@@ -1,5 +1,5 @@
 # test-gdcdocs
-test
+test a
 again
 ha-re-add new line
 test a line
