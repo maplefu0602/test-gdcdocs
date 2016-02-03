@@ -1,6 +1,7 @@
 This is the content for index.md
 change something here
 
+haha good
 
 this is out home.
 
