@@ -10,7 +10,7 @@ good try
 
 good night
 
-everything going well
+every what to do thing tgoing well
 
 what
 need to change again
