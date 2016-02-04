@@ -10,7 +10,7 @@ good try
 
 good night
 
-every what to do thing tgoing well
+everything 0001111 going 222 well
 
 what
 need to change again
